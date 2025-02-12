@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">27de6d23-abd6-4de6-957e-ee520aeb4bd5.westeurope.azurecontainer.io</domain>
+    </domain-config>
+</network-security-config>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RUAP</string>
+    <string name="form_screen_age">Age</string>
+    <string name="form_screen_enter_data">Enter data</string>
+    <string name="form_screen_restingbp">Resting BP</string>
+    <string name="form_screen_fastingbs">Select Fasting BS</string>
+    <string name="form_screen_exercise_angina">Select Exercise Angina</string>
+    <string name="form_screen_st_slope">Select ST Slope</string>
+    <string name="form_screen_old_peak">Select Old Peak</string>
+    <string name="form_screen_check_button">Check</string>
+    <string name="age_group_distribution">Age Group Distribution</string>
+    <string name="heart_disease_prediction">Heart Disease Prediction</string>
+    <string name="app_description">This application was developed as part of a project for the course \'Service Computing and Data Analysis\'. It utilizes Azure Machine Learning to predict heart disease based on input data.</string>
+    <string name="risk_level">Risk Level: %1$s</string>
+    <string name="probability">Probability: %.2f%%</string>
+    <string name="heart_disease_risk_assessment">Heart Disease Risk Assessment</string>
+    <string name="recommendation">Recommendation:</string>
+    <string name="additional_insights">Additional Insights</string>
+    <string name="of_patients_in_your_age_group_have_similar_conditions">• %1$s% of patients in your age group have similar conditions.</string>
+    <string name="low_risk">Low Risk</string>
+    <string name="moderate_risk">Moderate Risk</string>
+    <string name="high_risk">High Risk</string>
+    <string name="very_high_risk">Very High Risk</string>
+    <string name="low_risk_text">You are at low risk. Maintain a healthy lifestyle.</string>
+    <string name="moderate_risk_text">Moderate risk detected. Consider a preventive medical check-up.</string>
+    <string name="high_risk_text">High risk detected! Please consult a doctor soon.</string>
+    <string name="very_high_risk_text">Very high risk! Urgent medical attention is strongly recommended.</string>
+    <string name="age_group_percentage">• %1$d%% of patients in your age group have similar conditions.</string>
+    <string name="average_cholesterol">• Average cholesterol in your age group: %.1f mg/dL</string>
+    <string name="heart_disease_cases">• Heart disease cases in your age group: %.1f%%</string>
+    <string name="get_started">Get Started</string>
+    <string name="form_screen_resting_ecg">Select Resting ECG</string>
+    <string name="form_screen_chest_pain">Select Chest Pain Type</string>
+    <string name="form_screen_sex">Select Sex</string>
+</resources>
