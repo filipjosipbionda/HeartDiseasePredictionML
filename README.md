@@ -48,3 +48,5 @@ The project follows **modern Android development best practices** and is built w
 ✔️ **Statistical insights** about user’s risk group  
 ✔️ **Modern UI with Material 3 design**  
 
+## Authors
+Filip Josip Bionda & Mislav Češnik
